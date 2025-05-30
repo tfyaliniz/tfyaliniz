@@ -14,9 +14,10 @@ Yani: yaratıcı, çözüm odaklı, ileri görüşlü ve teknolojiye yön veren 
 - **.NET 8 / WPF / C#**
 - **PostgreSQL / SQLite / Entity Framework**
 - **MVVM Design Pattern**
-- **Python (Data Science, Automation)**
+- **Python (Artificial Intelligence, Data Science, Automation)**
+- **JavaScript (Web Application)**
 - **React Native / Expo CLI (Mobil Geliştirme)**
-- **Modbus TCP/IP & SCADA sistem entegrasyonları**
+- **Modbus TCP/IP, OPC, SNMP & SCADA sistem entegrasyonları**
 
 ---
 
@@ -24,7 +25,7 @@ Yani: yaratıcı, çözüm odaklı, ileri görüşlü ve teknolojiye yön veren 
 - ⚙️ Endüstriyel Otomasyon & Kestirimci Bakım Sistemleri
 - 🤖 Yapay Zeka & Makine Öğrenmesi
 - 📊 Kripto Para Analizi ve Teknik Analiz
-- 🎧 Müzik Prodüksiyonu (Türkçe Rap, Drill, Trap)
+- 🎧 Müzik Prodüksiyonu (Türkçe Rap, Drill, Trap, EDM, Big House)
 - 🌍 Freelance & Uzaktan Çalışma Kültürü
 - 🎮 Hobi olarak oyun geliştirme (C#, Unity)
 
@@ -32,6 +33,8 @@ Yani: yaratıcı, çözüm odaklı, ileri görüşlü ve teknolojiye yön veren 
 
 ## 📈 GitHub'da Ne Paylaşıyorum?
 - ✅ Endüstriyel uygulamalar (Modbus, SCADA, C# Desktop Tools)
+- ✅ AI Systems
+- ✅ Web Applications
 - ✅ Kripto analiz araçları ve botlar
 - ✅ Mobil uygulamalar (React Native projeleri)
 - ✅ Kişisel projeler: otomasyon araçları, müzikle ilgili yazılımlar
@@ -47,7 +50,7 @@ Yani: yaratıcı, çözüm odaklı, ileri görüşlü ve teknolojiye yön veren 
 ---
 
 ## 🏁 Motto
-> "Hayaller kodla şekillenir. Zekâ + cesaret = Geleceği inşa etmek."
+> "Hayaller kodla şekillenir. Zekâ + cesaret = Geleceği inşa eder."
 
 ---
 
